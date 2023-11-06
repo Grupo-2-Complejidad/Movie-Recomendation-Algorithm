@@ -1,1 +1,1 @@
-# Movie Recomendation Algorith
+# Movie Recommendation Algorithm
